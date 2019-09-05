@@ -2,7 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pnkapadia.github.io/recipe-search",
+  "homepage": "http://pnkapadia.github.io/Recipes-Search",
   "dependencies": {
     "dotenv": "^8.1.0",
     "react": "^16.9.0",
